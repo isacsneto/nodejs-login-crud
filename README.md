@@ -10,13 +10,13 @@ http://localhost:3000
 To unprotect the routes just put // in the line 13 of index.js
 
 Customer routes are:
-GET - '/customers'
-GET - '/customers/:id'
-POST - '/customers'
-PUT - '/customers/:id'
-DELETE - '/customers/:id'
+1. GET - '/customers'
+2. GET - '/customers/:id'
+3. POST - '/customers'
+4. PUT - '/customers/:id'
+5. DELETE - '/customers/:id'
 
 User routes are:
 
-POST /register
-POST /auth
+1. POST /register
+2. POST /auth
